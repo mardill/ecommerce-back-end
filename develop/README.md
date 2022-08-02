@@ -6,6 +6,12 @@
 
 This applicaiton creates a backend for an e-commerce site. It utilizes sequelize and creates a mysql database to store product data. It allows a user to store ecommerce data and access the data via mysql.
 
+command line example: https://watch.screencastify.com/v/IJYA73Y67m7OGKMBpa9d
+
+insomnia walkthrough: https://watch.screencastify.com/v/0zQmTmly0Yk2yBqafuU8
+
+
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -24,21 +30,10 @@ Express.js, mysql2, sequelize, dotenv
 
 This application can be used with a mysql database. By adding seed data within tables to the main database, any data can be stored and accessed. It can then be retrieved, deleted, or updated using express.js through the api links.
 
-## Credits
-
-
 
 ## License
 
 This is covered under the MIT license. 
-
-
-## Contributing
-
-
-
-## Tests
-
 
 
 ## Questions
